@@ -2,12 +2,13 @@
 
 ---
 
-## **Overview**
+## **Abstract**
 SpeakSee is an advanced lip-reading system that leverages deep learning to interpret and transcribe silent speech from video sequences. By combining **3D Convolutional Neural Networks (3D CNNs)** with **Bidirectional Long Short-Term Memory Networks (Bi-LSTMs)** and utilizing the **Connectionist Temporal Classification (CTC)** loss function, this project provides a robust framework for automated lip reading.
 
 This system is designed to enhance communication for the hearing-impaired, facilitate silent interactions, and improve speech recognition in noisy environments.
 
-Download the Model Weights - https://drive.google.com/uc?id=1vWscXs4Vt0a_1IH1-ct2TCgXAZT-N3_Y
+Download the Model Weights - https://drive.google.com/uc?id=1vWscXs4Vt0a_1IH1-ct2TCgXAZT-N3_Y 
+---
 Download the Dataset (Grid Corpus) - https://spandh.dcs.shef.ac.uk/gridcorpus/
 ---
 
