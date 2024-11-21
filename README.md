@@ -74,8 +74,18 @@ The results demonstrate significant improvements over traditional methods, with 
   - Bi-LSTM
   - CTC Loss
 
----
+# Project Structure
 
+- **SpeakSee/**
+  - `SpeakSee.ipynb`: Jupyter Notebook for the project
+  - `SpeakSee.pdf`: Project report
+  - **Images/**: Directory for project-related images
+    - `ModelDiag.png`: Model architecture diagram
+    - `InputPreprocessing.png`: Input preprocessing visualization
+  - `README.md`: Project README file
+  - `requirements.txt`: List of project dependencies
+
+---
 
 ## **Installation**
 1. Clone the repository:
