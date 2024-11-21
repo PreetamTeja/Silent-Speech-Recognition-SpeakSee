@@ -47,8 +47,7 @@ This system is designed to enhance communication for the hearing-impaired, facil
 ---
 
 ## **Model Architecture**
-[![Model Architecture](path/to/your/model_image.jpg)](path/to/your/model_image.jpg)
-*Replace `path/to/your/model_image.jpg` with the actual path to the architecture image.*
+[![Model Architecture](Images/ModelDiag.png)](Images/ModelDiag.png)
 
 ---
 
