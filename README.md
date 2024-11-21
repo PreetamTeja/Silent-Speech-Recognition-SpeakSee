@@ -7,6 +7,8 @@ SpeakSee is an advanced lip-reading system that leverages deep learning to inter
 
 This system is designed to enhance communication for the hearing-impaired, facilitate silent interactions, and improve speech recognition in noisy environments.
 
+Download the Model Weights - https://drive.google.com/uc?id=1vWscXs4Vt0a_1IH1-ct2TCgXAZT-N3_Y
+Download the Dataset (Grid Corpus) - https://spandh.dcs.shef.ac.uk/gridcorpus/
 ---
 
 ## **Key Features**
