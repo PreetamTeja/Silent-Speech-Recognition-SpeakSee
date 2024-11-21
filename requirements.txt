@@ -1,0 +1,11 @@
+tensorflow==2.9.1
+numpy==1.23.5
+matplotlib==3.6.3
+opencv-python==4.7.0.72
+scipy==1.10.1
+pandas==1.5.3
+seaborn==0.12.2
+jupyter==1.0.0
+h5py==3.8.0
+pillow==9.4.0
+sklearn==0.0
