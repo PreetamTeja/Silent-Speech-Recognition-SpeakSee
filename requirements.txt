@@ -8,4 +8,4 @@ seaborn==0.12.2
 jupyter==1.0.0
 h5py==3.8.0
 pillow==9.4.0
-sklearn==0.0
+sklearn
