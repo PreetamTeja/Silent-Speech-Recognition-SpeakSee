@@ -100,16 +100,6 @@ The results demonstrate significant improvements over traditional methods, with 
 
 ---
 
-## **Contributors**
-- **Preetam Teja**  
-- **Sarvesh K**  
-- **Durai Singh**
-- **Samhitha S**
-
-Supervised by **Dr. Mithun Kumar**
-
----
-
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
 
